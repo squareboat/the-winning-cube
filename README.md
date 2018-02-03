@@ -66,7 +66,7 @@ scene.add( cubeouter );
 
 Now, we have our cubes in the place. But, without the light sources, the colors won’t reflect. Now, we need to define our light sources.
 ```
-// Lighning
+// Lightning
 ambientLight = new THREE.AmbientLight( 0xFFFFFF, 0.2 );
 scene.add( ambientLight );
 
