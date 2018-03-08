@@ -1,5 +1,5 @@
 # The Winning Cube
-I used three.js to build a 3D puzzle game in which you navigate through cubes to reach a goal. You can navigate through keyboard or hand gestures or simply using voice commands.
+I used three.js to build a 3D puzzle game in which you navigate through cubes to reach a goal. You can navigate through keyboard or hand gestures or simply using voice commands. You can also check the live demo [here](https://winning-cube.squareboat.com/). For more detailed explanation, check out my article at [SquareBoat's Official Blog](https://blog.squareboat.com/my-first-experiment-with-three-js-d053261be473).
 
 ## Getting Started
 In 3D world, the following things are necessarily needed :
@@ -288,6 +288,6 @@ function init() {
 
 ## Credits
 - [Himanshu Grover](https://github.com/himanshugrover)
-- [Proksh Luthra]
+- [Proksh Luthra](https://github.com/Proksh)
       
 
